@@ -19,7 +19,7 @@ import pickle
 
 
 # 设置API_KEY和API_ENDPOINT
-API_KEY = "AIzaSyDrHTlwVI_26vQ0D2pFMxWWN31lrGbCLc4"
+API_KEY = ""
 API_ENDPOINT = "https://gemini.hor1zon.org"
 
 # 创建ChatGoogleGenerativeAI
