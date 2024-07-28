@@ -1,4 +1,4 @@
-# vue-test
+# 这是一个hor1zon基于vue3开发的用了element-plus的web项目，项目内容主要是类ChatGPT网站开发
 
 ## Project setup
 ```
