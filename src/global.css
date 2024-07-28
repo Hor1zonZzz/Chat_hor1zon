@@ -1,0 +1,8 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* 页面就不会出现滚动条，也就不能上下拖拽了。 */
+    overflow: hidden; 
+  }
